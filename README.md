@@ -1,17 +1,14 @@
-### TALLER DE PROYECTOS I
+### TALLER DE PROYECTOS II
 
-## PLATAFORMA WEB DE CONSULTA CATASTRAL PARA LA MUNICIPALIDAD PROVINCIAL DE ESPINAR, CUSCO
+## Aplicación web  para la detección temprana de depresión y ansiedad en estudiantes universitarios mediante Chat Bot
 
-Team Grupo 4
+Grupo 1
 
-- Jusset Antonio La Valle Morey
-- Ivonne Olenka Arcondo Vargas
-- Marcel Adolfo Echarri Farfan
-- Jaime Cenzano Gonzales
+
 - Maricruz Huamani Sarmiento
-- Ramiro Gonzalez Angulo
+- 
 
 
 
 
-Universidad Continental 2023
+Universidad Continental 2024
